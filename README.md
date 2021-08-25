@@ -7,3 +7,7 @@ To run this app, make sure to have pipenv installed in your machine and run the 
 `pipenv run uvicorn fast_api.main:app --reload`
 
 `http://localhost:8000/docs`
+
+
+https://www.paypal.com/donate?hosted_button_id=Z9SXFGZGJY6CY
+
